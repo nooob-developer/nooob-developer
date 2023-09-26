@@ -4,7 +4,6 @@ pacman -Si nooob-developer
 Name            : reza
 age             : 17
 Description     :
-Licenses        : GPL.3
 ```
 URLs            :
 | Telegram | Codeberg | Matrix | Mastadon | Instagram |
